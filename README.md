@@ -33,3 +33,4 @@ export default {
 
 https://blog.stackademic.com/5-custom-react-hooks-every-developer-should-know-4183af96cecc
 https://react.dev/reference/react/useSyncExternalStore
+https://dev.to/arafat4693/15-useful-react-custom-hooks-that-you-can-use-in-any-project-2ll8
