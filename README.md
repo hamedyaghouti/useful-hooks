@@ -32,3 +32,4 @@ export default {
 # Resouces
 
 https://blog.stackademic.com/5-custom-react-hooks-every-developer-should-know-4183af96cecc
+https://react.dev/reference/react/useSyncExternalStore
